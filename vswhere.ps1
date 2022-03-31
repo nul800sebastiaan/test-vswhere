@@ -76,3 +76,6 @@
       }
 	  Write-Host "MSBuild: " $msbuild
     }
+	
+	
+&$msbuild\MSBuild.exe /?
